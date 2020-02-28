@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d059363f-4de1-45ee-9744-8115390e09ae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YOpWNYphVfJOzZYgR71lsE66NB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sa.barrenland.App" />
+      <module name="barrenland" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sa.barrenland.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d059363f-4de1-45ee-9744-8115390e09ae" name="Default Changelist" comment="" />
+      <created>1582823525581</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582823525581</updated>
+      <workItem from="1582823529131" duration="152000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="204" y="118" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582823632166">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="204" y="118" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.824@0.23.1440.824" timestamp="1582823632166" />
+    <state width="1358" height="200" key="GridCell.Tab.0.bottom" timestamp="1582823684163">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="1358" height="200" key="GridCell.Tab.0.bottom/0.23.1440.824@0.23.1440.824" timestamp="1582823684163" />
+    <state width="1358" height="200" key="GridCell.Tab.0.center" timestamp="1582823684162">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="1358" height="200" key="GridCell.Tab.0.center/0.23.1440.824@0.23.1440.824" timestamp="1582823684162" />
+    <state width="1358" height="200" key="GridCell.Tab.0.left" timestamp="1582823684161">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="1358" height="200" key="GridCell.Tab.0.left/0.23.1440.824@0.23.1440.824" timestamp="1582823684161" />
+    <state width="1358" height="200" key="GridCell.Tab.0.right" timestamp="1582823684162">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="1358" height="200" key="GridCell.Tab.0.right/0.23.1440.824@0.23.1440.824" timestamp="1582823684162" />
+  </component>
+</project>
