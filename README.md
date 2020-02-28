@@ -19,4 +19,5 @@ To RUN TEST Cases (JUNIT)
 1. Install Java IDE of your choice and import project as a Maven project
 2. Change directory to project folder
 3. Execute the below command in the terminal
+
 mvn test
