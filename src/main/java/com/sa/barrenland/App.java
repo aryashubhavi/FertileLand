@@ -8,8 +8,6 @@ import java.util.Queue;
 import java.util.Stack;
 /**
  * @author shubhaviarya
- * RUNning instructions
- * mvn exec:java -Dexec.mainClass="com.sa.barrenland.App"
  *
  */
 public class App 
